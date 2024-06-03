@@ -13,6 +13,9 @@
 
 4. Красный сигнал — запрещает движение в данном направлении
 
+   ![Светофор](https://github.com/Andymarch83/C_for_ioT/assets/122732408/fcbeb642-17eb-483d-b7e9-d5c842e11f2d)
+
+
    https://www.tinkercad.com/things/02uOwRxVN7Q-svetofor?sharecode=XzgDZY60BDe7dzvLbYt6-bjCuFjLsURkjtaULZqkDK4
 
 
@@ -34,6 +37,9 @@
 кнопки (до этого кнопка не реагирует)
 Светофор готов к новому циклу.
 
+![Светофор с кнопкой](https://github.com/Andymarch83/C_for_ioT/assets/122732408/9b3e4b1d-63fd-4231-92ed-95b695d857e1)
+
+
 https://www.tinkercad.com/things/jQgeAU3SQI9-svetofor-s-knopkoj?sharecode=iksKshbfbVbthLvUD6wY6BU7DMZwzrJw4utIyFgcyKI
 
 # 📌 Задача 3*. Включение светодиода
@@ -48,5 +54,8 @@ https://www.tinkercad.com/things/jQgeAU3SQI9-svetofor-s-knopkoj?sharecode=iksKsh
 Соберите цепи из указанных компонентов и напишите данный код. Запустите serial monitor. Введите с 
 клавиатуры «1», светодиод загорится зеленый. При вводе «0» зеленый светодиод потухнет. Можно сделать 
 для разных светодиодов.
+
+![Включение светодиода](https://github.com/Andymarch83/C_for_ioT/assets/122732408/3b7b1d6d-c0ff-498a-bdbe-27fe26456dbe)
+
 
 https://www.tinkercad.com/things/jal4r03BppH-vklyuchenie-svetodioda?sharecode=rAlRSY7bI9hx2pibwi06BKg2zQPgXZyS_UyFIIztbwI
